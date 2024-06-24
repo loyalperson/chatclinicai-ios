@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="22505" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" launchScreen="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="01J-lp-oVM">
+    <device id="retina6_12" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="22504"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="EHf-IW-A2E">
+            <objects>
+                <viewController id="01J-lp-oVM" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="Ze5-6b-2t3">
+                        <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Ali-da-1fi">
+                                <rect key="frame" x="0.0" y="221.66666666666669" width="393" height="596.33333333333326"/>
+                                <subviews>
+                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="logo1.png" translatesAutoresizingMaskIntoConstraints="NO" id="x0g-z9-dyd">
+                                        <rect key="frame" x="98.333333333333329" y="0.0" width="196.33333333333337" height="196.33333333333334"/>
+                                        <constraints>
+                                            <constraint firstAttribute="width" secondItem="x0g-z9-dyd" secondAttribute="height" multiplier="1:1" id="Fgc-KU-dx9"/>
+                                        </constraints>
+                                    </imageView>
+                                </subviews>
+                                <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                                <constraints>
+                                    <constraint firstItem="x0g-z9-dyd" firstAttribute="width" secondItem="Ali-da-1fi" secondAttribute="width" multiplier="0.5" id="9T3-mn-ycf"/>
+                                    <constraint firstItem="x0g-z9-dyd" firstAttribute="centerX" secondItem="Ali-da-1fi" secondAttribute="centerX" id="rYN-yj-S0W"/>
+                                    <constraint firstItem="x0g-z9-dyd" firstAttribute="top" secondItem="Ali-da-1fi" secondAttribute="top" id="reK-ML-I0m"/>
+                                </constraints>
+                            </view>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <constraints>
+                            <constraint firstItem="Ali-da-1fi" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" id="1ns-SC-MnL"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="Ali-da-1fi" secondAttribute="bottom" id="9j8-1F-RYl"/>
+                            <constraint firstItem="Ali-da-1fi" firstAttribute="height" secondItem="Ze5-6b-2t3" secondAttribute="height" multiplier="0.7" id="Mbe-N5-Msr"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="Ali-da-1fi" secondAttribute="trailing" id="p8R-SN-HPS"/>
+                        </constraints>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="iYj-Kq-Ea1" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="52.671755725190835" y="374.64788732394368"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="logo1.png" width="500" height="500"/>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>

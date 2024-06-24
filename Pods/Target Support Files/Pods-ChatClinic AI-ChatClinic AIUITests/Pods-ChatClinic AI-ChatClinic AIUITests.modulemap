@@ -1,0 +1,6 @@
+framework module Pods_ChatClinic_AI_ChatClinic_AIUITests {
+  umbrella header "Pods-ChatClinic AI-ChatClinic AIUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

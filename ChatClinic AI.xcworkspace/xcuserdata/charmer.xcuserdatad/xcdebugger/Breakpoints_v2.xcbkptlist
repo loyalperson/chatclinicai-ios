@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "92C2FD45-079E-4B6E-BD0D-106C8671AC44"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AE7A8E44-6227-434F-80E7-4A0B650EC0CE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChatClinic AI/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "137"
+            endingLineNumber = "137"
+            landmarkName = "application(_:didRegisterForRemoteNotificationsWithDeviceToken:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "AE7A8E44-6227-434F-80E7-4A0B650EC0CE - 8ba34319385dcb3b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChatClinic_AI.AppDelegate.application(_: __C.UIApplication, didRegisterForRemoteNotificationsWithDeviceToken: Foundation.Data) -&gt; ()"
+                  moduleName = "ChatClinic AI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/charmer/Documents/ChatClinic%20AI/ChatClinic%20AI/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "129"
+                  endingLineNumber = "129"
+                  offsetFromSymbolStart = "92">
+               </Location>
+               <Location
+                  uuid = "AE7A8E44-6227-434F-80E7-4A0B650EC0CE - 8ba34319385dc871"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChatClinic_AI.AppDelegate.application(_: __C.UIApplication, didRegisterForRemoteNotificationsWithDeviceToken: Foundation.Data) -&gt; ()"
+                  moduleName = "ChatClinic AI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/charmer/Documents/ChatClinic%20AI/ChatClinic%20AI/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "135"
+                  endingLineNumber = "135"
+                  offsetFromSymbolStart = "92">
+               </Location>
+               <Location
+                  uuid = "AE7A8E44-6227-434F-80E7-4A0B650EC0CE - 8ba34319385dc852"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChatClinic_AI.AppDelegate.application(_: __C.UIApplication, didRegisterForRemoteNotificationsWithDeviceToken: Foundation.Data) -&gt; ()"
+                  moduleName = "ChatClinic AI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/charmer/Documents/ChatClinic%20AI/ChatClinic%20AI/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "136"
+                  endingLineNumber = "136"
+                  offsetFromSymbolStart = "92">
+               </Location>
+               <Location
+                  uuid = "AE7A8E44-6227-434F-80E7-4A0B650EC0CE - 8ba34319385dc833"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChatClinic_AI.AppDelegate.application(_: __C.UIApplication, didRegisterForRemoteNotificationsWithDeviceToken: Foundation.Data) -&gt; ()"
+                  moduleName = "ChatClinic AI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/charmer/Documents/ChatClinic%20AI/ChatClinic%20AI/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "137"
+                  endingLineNumber = "137"
+                  offsetFromSymbolStart = "92">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3074CAC7-8717-444C-8D36-607B6D3F64E2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChatClinic AI/AWSS3Manager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "uploadImage(image:progress:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "380BD958-C1BE-4423-A830-12FA0CF6E87B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChatClinic AI/AWSS3Manager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "uploadImage(image:progress:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "31DEC3A4-C50A-4E6E-A690-6C0A3F01EE82"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChatClinic AI/AWSS3Manager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "96"
+            endingLineNumber = "96"
+            landmarkName = "uploadfile(fileUrl:fileName:contenType:progress:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3032AC8B-EA8B-467C-9DE0-B2CCF6FAF13F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChatClinic AI/AWSS3Manager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "87"
+            endingLineNumber = "87"
+            landmarkName = "uploadfile(fileUrl:fileName:contenType:progress:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E024D253-344E-47D4-AF34-8468A8F373B0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChatClinic AI/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "103"
+            endingLineNumber = "103"
+            landmarkName = "application(_:handleEventsForBackgroundURLSession:completionHandler:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E024D253-344E-47D4-AF34-8468A8F373B0 - 63ddc26bbc7301d1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChatClinic_AI.AppDelegate.application(_: __C.UIApplication, handleEventsForBackgroundURLSession: Swift.String, completionHandler: () -&gt; ()) -&gt; ()"
+                  moduleName = "ChatClinic AI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/charmer/Documents/ChatClinic%20AI/ChatClinic%20AI/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "101"
+                  endingLineNumber = "101"
+                  offsetFromSymbolStart = "91">
+               </Location>
+               <Location
+                  uuid = "E024D253-344E-47D4-AF34-8468A8F373B0 - 63ddc26bbc7301b6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChatClinic_AI.AppDelegate.application(_: __C.UIApplication, handleEventsForBackgroundURLSession: Swift.String, completionHandler: () -&gt; ()) -&gt; ()"
+                  moduleName = "ChatClinic AI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/charmer/Documents/ChatClinic%20AI/ChatClinic%20AI/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "102"
+                  endingLineNumber = "102"
+                  offsetFromSymbolStart = "91">
+               </Location>
+               <Location
+                  uuid = "E024D253-344E-47D4-AF34-8468A8F373B0 - 63ddc26bbc730197"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChatClinic_AI.AppDelegate.application(_: __C.UIApplication, handleEventsForBackgroundURLSession: Swift.String, completionHandler: () -&gt; ()) -&gt; ()"
+                  moduleName = "ChatClinic AI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/charmer/Documents/ChatClinic%20AI/ChatClinic%20AI/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "103"
+                  endingLineNumber = "103"
+                  offsetFromSymbolStart = "91">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "21E37FCA-A489-4322-B846-3A679C309156"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChatClinic AI/UploadService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "start(file:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "21E37FCA-A489-4322-B846-3A679C309156 - 9d86d24471409f86"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in ChatClinic_AI.UploadService.start(file: ChatClinic_AI.File) -&gt; ()"
+                  moduleName = "ChatClinic AI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/charmer/Documents/ChatClinic%20AI/ChatClinic%20AI/UploadService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "238">
+               </Location>
+               <Location
+                  uuid = "21E37FCA-A489-4322-B846-3A679C309156 - 9d86d24471409fe5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in ChatClinic_AI.UploadService.start(file: ChatClinic_AI.File) -&gt; ()"
+                  moduleName = "ChatClinic AI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/charmer/Documents/ChatClinic%20AI/ChatClinic%20AI/UploadService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "299">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
